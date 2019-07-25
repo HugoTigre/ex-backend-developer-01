@@ -35,6 +35,7 @@ Create a small `Book Service` that can:
 
 ### Exercice Notes
 
+* Returned values should be in the format '#.##`, ex: 20.00;
 * You can make small changes to improve the solution if you think necessary, but the minimum requirements must be completed;
 * Any dependency that your solution has must be embeded in the deliverable solution, so that it's easier for us to test it;
 * Consider and justify the arquitecture of the solution, if you think something is important but it's not really fiseable to do as a small exercise you should document that. We value scalable solutions.
